@@ -1,3 +1,3 @@
 # Car Purchase Amount Prediction
 
-Predict Car Price a customer would bought based-on their profile
+Predict car price a customer would buy based-on their profile. The dataset used in this project is accessible [here](https://github.com/ammfat/datasets/blob/main/otomotic.csv).
